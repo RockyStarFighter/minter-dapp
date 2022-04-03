@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "LegendoftheMaskMaker.xyz";
-const description = "The Legend of the Mask Maker is a collection of 5,000 NFT Access Passes.  Each NFT owner will get early access to the Alpha release of the video game – “Legend of the Mask Maker” which is due to be released by the end of 2022.  Additionally, each NFT has a color coded kitsune mask next to the title.  The colors of the mask determine which in-game upgrade is tied to the NFT.  ";
+const description = "The Legend of the Mask Maker is a collection of NFT Access Passes for early access to the Alpha release of the video game – “Legend of the Mask Maker”";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
