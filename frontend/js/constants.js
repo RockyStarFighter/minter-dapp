@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Legend of the Mask Maker NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Legend of the Mask Maker NFT Project is a decentralized utility NFT that gives NFT owners access to the Alpha release of the video game "Legend of the Mask Maker".  The video game is in development and scheduled for Alpha release at the end of 2022. Stay tuned for game dev updates, game play demos, and trailers. <a href="https://www.youtube.com/channel/UCvHgWuKWiy1FBs1Acm9FRkw"  target="_blank" rel="noopener noreferrer">Legend of the Mask Maker Video Game Dev & NFT</a> YouTube channel.';
+const welcome_p = 'The Legend of the Mask Maker NFT Project is a decentralized utility NFT that gives NFT owners access to the Alpha release of the video game "Legend of the Mask Maker".  The video game is in development and scheduled for Alpha release at the end of 2022. Stay tuned for game dev updates, game play demos, and trailers. <a href="https://www.youtube.com/channel/UCvHgWuKWiy1FBs1Acm9FRkw" target="_blank" rel="noopener noreferrer">Legend of the Mask Maker Video Game Dev & NFT</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
