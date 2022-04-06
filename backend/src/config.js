@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "LegendoftheMaskMaker.xyz";
-const description = "The Legend of the Mask Maker is a collection of NFT Access Passes for early access to the Alpha release of the video game – “Legend of the Mask Maker”";
+const description = "The Legend of the Mask Maker is a collection of NFT Access Passes for access to the Alpha release of the video game – “Legend of the Mask Maker”";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
